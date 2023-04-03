@@ -1,0 +1,10 @@
+1'chicken orzo soup'0
+2'organic field greens'0
+3'French Fries'6 
+4'Truffle Fries'9
+5'Sweet Potato Fries'8
+6'Whipped Idaho Potatoes'6
+7'Grilled Asparagus'8
+8'Creamed Spinach'7
+9'Toasted Broccoli with Garlic Cloves'7
+10'Charred Brussel Sprouts - balsamic, pancetta, pearl onion'9

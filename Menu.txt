@@ -1,0 +1,20 @@
+1'Bucatini Carbonara'24
+2'Linguini with Stuffed Meatballs - mozzarella stuffed meatballs, cilantro cream sauce'26
+3'Wild Mushroom Ravioli- porcini, portobello & oyster mushrooms, truffle cream sauce'26
+4'Vegetable Paella - roasted seasonal vegetables, mushrooms, sweet potato, organic red quinoa'24
+5'Braised Short Rib Cavatelli - baked with mushrooms, pearl onions, whipped ricotta'29
+6'Irish Organic Salmon - lemon cous cous, rustic garden vegetables, tomatoes, capers, white wine sauce'29
+7'Teriyaki Chicken - organic chicken, jasmine rice, avocado, stir-fried vegetables'26
+8'Rigatoni with Chicken - organic chicken, house oven dried tomato cream sauce'26
+9'Wild Mushroom & Truffle Risotto'26
+10'Mini Shells with Italian Sausage - broccoli rabe, shaved garlic, tomato cream sauce'24
+11'Lobster Ravioli - north atlantic lobster, sherry cream sauce'32
+12'Seafood Risotto - shrimp, calamari, shellfish broth, vegetable mire poix'30
+13'Pan Roasted Organic Chicken - roasted yukon gold potatoes, artichokes, tomato concasse'26
+14'Chicken Parmigiana - organic chicken, served with linguini marinara'26
+15'Sesame Crusted Yellowfin Tuna - shaved brussels sprouts, enoki mushrooms, peppers, carrots, soy-ginger broth'30
+16'Blackened Prime Ribeye Steak - Cast iron seared, 20oz bone in prime ribeye. sweet potato au gratin.'52
+17'10oz Filet Mignon'58
+18'20oz Bone-in Ribeye'52
+19'16oz Hangar Steak'38
+20'16oz Skirt Steak'46
